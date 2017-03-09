@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet var time: UIDatePicker!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -21,5 +23,10 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func setTimer(_ sender: Any) {
+    }
+
+    @IBAction func stopTimer(_ sender: Any) {
+    }
 }
 
