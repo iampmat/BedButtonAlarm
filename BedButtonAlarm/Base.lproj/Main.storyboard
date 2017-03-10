@@ -33,7 +33,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Set"/>
                                 <connections>
-                                    <action selector="setTimer:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rWU-D0-cj9"/>
+                                    <action selector="startTimer:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bMH-Yd-RRL"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oKA-Pe-ao8">
